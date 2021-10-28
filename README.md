@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Entt Nine</h1>
 <h3 align="center"> Web Developer </h3>
 
-- 🌱 I’m currently learning **PHP,Python**
+- 🌱 I’m currently learning **PHP , Python**
 
 - 📫 How to reach me **heroglasses155@gmail.com**
 
