@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/5%20Best%20Coding%20Programs%20for%20Aspiring%20Programmers1650304687858345.jpg" align="center" style="width: 100%" />
-</div>  
-  
-
 ### **<div align="center">I'm Ashein, react developer 👨‍💻 trainee 🚀</div>**  
   
 
