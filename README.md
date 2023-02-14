@@ -81,12 +81,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashein199&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
-
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+ 
 
 <br/>  
 
