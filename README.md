@@ -1,4 +1,4 @@
-### **<div align="center">I'm Ashein, react developer 👨‍💻 trainee 🚀</div>**  
+### **<div align="center">I'm Ashein, react developer 👨‍💻 </div>**  
   
 
 - 🔭 I’m working on [Digital Base](https://digitalbase.com.mm/) Internship Program  
