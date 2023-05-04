@@ -1,10 +1,10 @@
 ### **<div align="center">I'm Ashein, react developer 👨‍💻 </div>**  
   
 
-- 🔭 I’m working on [Digital Base](https://digitalbase.com.mm/) Internship Program  
+- 🔭 I’m working on [Digital Base](https://digitalbase.com.mm/)
   
 
-- 🌱 I’m currently learning React Redux Toolkit , Laravel Framework  
+- 🌱 I’m currently learning Advanced React , Laravel Framework  
   
 
 <br/>  
