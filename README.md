@@ -4,7 +4,7 @@
 - 🔭 I’m working on [Digital Base](https://digitalbase.com.mm/)
   
 
-- 🌱 I’m currently learning Advanced React , Laravel Framework  
+- 🌱 I’m currently learning Advanced React , Laravel Framework and focusing on Next.js 
   
 
 <br/>  
