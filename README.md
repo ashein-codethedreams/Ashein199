@@ -60,17 +60,6 @@
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="heroglasses155@gmail.com" target="_blank">
-My Gmail
-</a>  
-</div>  
-  
-
-<br/>  
-
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ashein-codethedreams&show_icons=true&count_private=true&hide_border=true&theme=flag-india" align="center" /></div>  
 
