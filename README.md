@@ -4,7 +4,7 @@
 - 🔭 I’m working on [Digital Base](https://digitalbase.com.mm/)
   
 
-- 🌱 I’m currently learning Advanced React , Laravel Framework and focusing on Next.js 
+- 🌱 I’m currently learning Advanced React and focusing on Next.js 13
   
 
 <br/>  
@@ -68,10 +68,10 @@
 <br/>  
  
 ## Contact
+<br/> 
 - Email: heroglasses155@gmail.com
 
 <br/> 
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ashein-codethedreams&&style=flat-square" align="center" />
