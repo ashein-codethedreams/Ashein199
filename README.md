@@ -66,7 +66,7 @@
 <br/>  
  
 ## Contact
-<div>- Email: heroglasses155@gmail.com</div>
+- Email: heroglasses155@gmail.com
 
 
 
