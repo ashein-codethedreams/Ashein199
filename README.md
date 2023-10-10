@@ -61,14 +61,14 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ashein-codethedreams&show_icons=true&count_private=true&hide_border=true&theme=flag-india" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashein-codethedreams&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashein-codethedreams&hide_border=true&layout=compact" />  
 
 <br/>  
  
 ## Contact
+<div>- Email: heroglasses155@gmail.com</div>
 
 
-- Email: heroglasses155@gmail.com
 
 ## Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hero.glasses) 
