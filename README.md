@@ -70,7 +70,8 @@
 
 - Email: heroglasses155@gmail.com
 
-<br/> 
+## Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hero.glasses) 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ashein-codethedreams&&style=flat-square" align="center" />
