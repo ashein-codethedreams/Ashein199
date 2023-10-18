@@ -59,7 +59,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ashein-codethedreams&show_icons=true&count_private=true&hide_border=true&theme=flag-india" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ashein-codethedreams&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashein-codethedreams&hide_border=true&layout=compact" />  
 
