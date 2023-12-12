@@ -63,7 +63,7 @@
 <br/> 
 
 ## Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashein-codethedreams&hide_border=true&langs_count=8&layout=compact&hide_progress=true" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashein-codethedreams&hide_border=true&langs_count=8&layout=compact" />  
 <br/>  
  
 ## Contact
