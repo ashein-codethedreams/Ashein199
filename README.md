@@ -4,7 +4,7 @@
 - 🔭 I’m working on [Digital Base](https://digitalbase.com.mm/)
   
 
-- 🌱 I’m currently learning Advanced React , Node.js and focusing on Next.js 13
+- 🌱 I’m currently learning React-Native , Node.js and focusing on Next.js 13
   
 
 <br/>  
