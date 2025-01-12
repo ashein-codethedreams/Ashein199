@@ -1,7 +1,7 @@
-### **<div align="center">I'm Ashein, Frontend Web Developer (React) 👨‍💻 </div>**  
+### **<div align="center">I'm Ashein, Software Engineer 👨‍💻 </div>**  
   
 
-- 🔭 I’m working at [Digital Base](https://digitalbase.com.mm/)
+- 🔭 I’m working at [GIC Myanmar](https://www.gicjp.com/)
   
 
 - 🌱 I’m currently learning React-Native , Node.js and focusing on Next.js 13
